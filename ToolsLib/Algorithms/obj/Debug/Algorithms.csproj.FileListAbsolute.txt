@@ -1,0 +1,5 @@
+C:\Users\laszlo.kovari\Source\Repos\ToolsLib\ToolsLib\Algorithms\bin\Debug\Algorithms.dll
+C:\Users\laszlo.kovari\Source\Repos\ToolsLib\ToolsLib\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\laszlo.kovari\Source\Repos\ToolsLib\ToolsLib\Algorithms\obj\Debug\Algorithms.csprojResolveAssemblyReference.cache
+C:\Users\laszlo.kovari\Source\Repos\ToolsLib\ToolsLib\Algorithms\obj\Debug\Algorithms.dll
+C:\Users\laszlo.kovari\Source\Repos\ToolsLib\ToolsLib\Algorithms\obj\Debug\Algorithms.pdb
